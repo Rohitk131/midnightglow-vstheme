@@ -1,0 +1,21 @@
+{
+  "name": "midnightglow",
+  "displayName": "MidnightGlow",
+  "description": "midnight glow is a color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Glow Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Glow Theme-color-theme.json"
+      }
+    ]
+  }
+}
